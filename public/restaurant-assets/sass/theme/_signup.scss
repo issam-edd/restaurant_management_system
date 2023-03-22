@@ -1,0 +1,43 @@
+/* Signup Page*/
+.signup-area {
+    .signup-form-area {
+        .login-btn {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+
+            @include portrait-phone {
+                button {
+                    display: block;
+                    width: 100%;
+                }
+            }
+
+            @include desktop {
+                button {
+                    display: block;
+                    width: 100%;
+                }
+            }
+
+            span {
+                color: $secondary-color;
+                text-transform: capitalize;
+                display: inline-block;
+                margin-top: 25px;
+                margin-left: 10px;
+                text-align: right;
+
+                @include portrait-phone {
+                    display: block;
+                }
+
+                a {
+                    color: $primary-color;
+                }
+
+            }
+        }
+    }
+}
