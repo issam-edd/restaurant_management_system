@@ -68,12 +68,14 @@ The database was designed to reflect real restaurant workflows and relationships
 ---
 
 ## 📷 Screenshots
-Screenshots to be added:
-- Dashboard
-- Order management
-- Table management
-- Billing system
-- Client website
+
+### Dashboard
+![Details](avocat_screenshots/details.png)
+
+### Client Side
+![Homepage](avocat_screenshots/home.png)
+
+
 
 ---
 
