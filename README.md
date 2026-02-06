@@ -69,11 +69,37 @@ The database was designed to reflect real restaurant workflows and relationships
 
 ## 📷 Screenshots
 
-### Dashboard
-![Details](avocat_screenshots/details.png)
+👨‍🍳 Chef Dashboard
+![Chef Orders](./systeme-MAT3AMI/dashboard/chef/dash-chefs-orders.png)
 
-### Client Side
-![Homepage](avocat_screenshots/home.png)
+🚚 Delivery Dashboard
+![Delivery Dashboard](./systeme-MAT3AMI/dashboard/delivery/dash-delivery.png)
+
+👑 Owner Dashboard (Management)
+![Ingredient Management](./systeme-MAT3AMI/dashboard/owner/dash-ingredient.png)
+![User Registration](./systeme-MAT3AMI/dashboard/owner/dash-register.png)
+![Reset Password](./systeme-MAT3AMI/dashboard/owner/dash-reset-password.png)
+![Create Supplier](./systeme-MAT3AMI/dashboard/owner/dash-suppliers-create.png)
+![Show Supplier](./systeme-MAT3AMI/dashboard/owner/dash-suppliers-show.png)
+![Suppliers List](./systeme-MAT3AMI/dashboard/owner/dash-suppliers.png)
+![User Login](./systeme-MAT3AMI/dashboard/owner/dash-user-login.png)
+![Create User](./systeme-MAT3AMI/dashboard/owner/dash-users-create.png)
+![Edit User](./systeme-MAT3AMI/dashboard/owner/dash-users-edit.png)
+![Users List](./systeme-MAT3AMI/dashboard/owner/dash-users.png)
+
+🍽️ Waiter Dashboard
+![Create Table Order](./systeme-MAT3AMI/dashboard/waiter/dash-tables-orders-create.png)
+![Tables Overview](./systeme-MAT3AMI/dashboard/waiter/dash-tables.png)
+
+🌐 Restaurant Website for online orders
+![Restaurant Home](./systeme-MAT3AMI/template/restaurant-home.png)
+![Menu Page](./systeme-MAT3AMI/template/resaurant-menu.png)
+![Food Shop](./systeme-MAT3AMI/template/restaurant-food-shop.png)
+![Shopping Cart](./systeme-MAT3AMI/template/restaurant-shopping-card.png)
+![Checkout](./systeme-MAT3AMI/template/restaurant-checkout.png)
+![Contact Us](./systeme-MAT3AMI/template/restaurant-contact.png)
+![Login](./systeme-MAT3AMI/template/restaurant-login.png)
+![Sign Up](./systeme-MAT3AMI/template/restaurant-sign-up.png)
 
 
 
